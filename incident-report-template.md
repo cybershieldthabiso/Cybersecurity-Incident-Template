@@ -3,7 +3,7 @@
 ## 1. Incident Overview
 - **Incident ID:** INC-XXXX
 - **Date/Time Detected:** YYYY-MM-DD HH:MM CAT
-- **Analyst Name:** Thabiso Ronald Baitshoki
+- **Analyst Name:** 
 - **Severity Level:** [ Minimal / Low / Medium / High / Critical ]
 
 ## 2. Threat Classification
